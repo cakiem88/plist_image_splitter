@@ -1,1 +1,8 @@
-# plist_image_splitter
+# USAGE
+From terminal 
+// WANT TO SPLIT ALL FOLDER
+$ FILE_DIR=${FILE_FOLDER} node .
+
+//WANT TO SPLIT ONE FILE ONLY
+
+$ FILE_DIR=${FILE_FOLDER/FILE.PLIST} node .
