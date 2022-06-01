@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "plist": "^3.0.1",
-    "sharp": "^0.22.1"
+    "sharp": "^0.30.5"
   }
 }
